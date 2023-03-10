@@ -98,5 +98,24 @@ a {
     padding: 20px 10%;
     box-shadow: 3px 3px 20px gray;
     border-radius: 15px;
-    margin: 5px 10%;
+    margin: 15px 10%;
+
+}
+
+footer {
+    text-align: center;
+    padding-bottom: 45px;
+    margin-top: 6%;
+
+}
+
+.footer-p {
+    color: aliceblue;
+    font-weight: 200;
+}
+
+.footer-h1 {
+    color: rgb(117, 112, 112);
+    padding-top: 15px;
+    font-weight: 200;
 }
