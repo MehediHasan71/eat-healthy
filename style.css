@@ -57,9 +57,14 @@ a {
 
 .about-me-design {
     background-image: url(eat-healthy-main/images/shapes/Frame\ 57.jpg);
+
+    /* background: url(eat-healthy-main/images/shapes/Frame\ 57.jpg) center center cover no-repeat; */
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: auto;
     padding: 5%;
+    background-size: 100%;
+
+
 }
 
 .recipies {
